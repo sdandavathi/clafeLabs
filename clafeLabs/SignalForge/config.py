@@ -1,0 +1,1 @@
+TICKER_LIST = ["AAPL", "MSFT", "TSLA", "NVDA", "AMZN"]
